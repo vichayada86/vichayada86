@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 สวัสดีค่ะ! ฉันชื่อ วิชญาดา ทาอาสา (Vichayada Taarsa)
 
-<!--
-**vichayada86/vichayada86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ยินดีต้อนรับสู่หน้า GitHub ของฉันค่ะ! 💻
 
-Here are some ideas to get you started:
+### 👩‍💻 เกี่ยวกับฉัน
+- 🎓 นิสิตชั้นปีที่ 3 **มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตศรีราชา**
+- 🎨 สนใจด้าน **Web Design** และการพัฒนาเว็บไซต์
+- 🐍 พัฒนาโปรเจกต์ด้วยภาษา **Python** ผ่าน **VS Code**
+- 📊 มีพื้นฐานการใช้งาน **SQL** สำหรับจัดการระบบฐานข้อมูล
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 ทักษะและเครื่องมือ (Tech & Tools)
+- **Languages:** Python 🐍, SQL 🗄️
+- **Web Design:** เน้นการออกแบบโครงสร้างและหน้าตาเว็บไซต์
+- **Tools:** Visual Studio Code, Git, GitHub Desktop
+
+### 📬 ติดต่อฉัน
+- 📧 Email: vichayada.t@ku.th
